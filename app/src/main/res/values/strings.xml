@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Saper</string>
+    <string name="new_game">🤔</string>
+    <string name="flag">🚩</string>
+    <string name="bomb">💣</string>
+    <string name="default_count">000</string>
+</resources>
